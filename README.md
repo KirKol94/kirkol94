@@ -23,8 +23,13 @@ I started studying programming in 2020, now I am a full-fledged frontend develop
 
 ### Badges
 
+<b>My Codewars Stats</b>
+<p>
+  <img src="https://github.r2v.ch/codewars?user=KirKol94" />
+</p>
+
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kirkol94"><img src="https://github-readme-stats.vercel.app/api?username=kirkol94&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kirkol94's GitHub stats" /></a>
-
-<a href="https://github.com/kirkol94" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirkol94&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kirkol94">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirkol94&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
