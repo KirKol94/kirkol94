@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer
 -------------------
 
-I started studying programming in 2020, now I am a full-fledged frontend developer
-
 * 🌍  I'm based in Russia / perm
 * ✉️  You can contact me at [t.me/k0lchanov](mailto:t.me/k0lchanov)
 
