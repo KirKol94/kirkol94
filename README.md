@@ -19,7 +19,7 @@ I started studying programming in 2020, now I am a full-fledged frontend develop
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/kirkol94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.t.me/k0lchanov" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/299513/telegram.svg" width="32" height="32" fill="white" /> </a></p>
 
 ### Badges
 
